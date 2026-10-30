@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kc2flycodes.github.io/ANTONIO/sitemap.xml
