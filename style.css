@@ -290,7 +290,7 @@ details p{padding:0 0 1.1rem;color:#3d3d39}
   .hero-actions{display:flex}
   .lede-more{display:inline}
   .hero-proof{display:flex;gap:2rem;margin-top:1.8rem;padding-top:1.1rem;border-top:1px solid var(--line)}
-  h1{font-size:clamp(6rem,10.5vw,10.5rem)}
+  h1{font-size:clamp(5.5rem,9.2vw,10rem)}
   .hero-copy{position:relative;z-index:2}
   .deck-wrap{overflow:hidden;padding:1.2rem 0 .3rem;-webkit-mask-image:linear-gradient(90deg,transparent,#000 9%);mask-image:linear-gradient(90deg,transparent,#000 9%)}
   .deck{height:clamp(470px,70vh,600px)}
